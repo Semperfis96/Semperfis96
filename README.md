@@ -2,7 +2,7 @@
 - 👀 I’m interested in low-level programming (asm, C), vintage computers & games (Diablo, ...).
 - 🌱 I’m currently learning emulators development & computers electronics design.
 - 💞️ I’m looking to collaborate on DevilutionX.
-- 📫 How to reach me Discord:
+- 📫 How to reach me Discord: Doomhrod#5177
 
 <!---
 Semperfis96/Semperfis96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
